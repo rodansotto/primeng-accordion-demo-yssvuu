@@ -38,6 +38,9 @@ export class AppComponent {
   aa_q1yes2_value: string;
   aa_q1yes3_options: any[];
   aa_q1yes3_value: string;
+  aa_q1yes3v1_values: any[] = [];
+  aa_q1yes3v2_values: any[] = [];
+  aa_q1yes3v3_values: any[] = [];
 
   no_yes_options: any[];
 
